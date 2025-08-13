@@ -1,4 +1,4 @@
-# docker-nginx-test-page
+# docker-nginx-test-page New
 ![build](https://img.shields.io/docker/build/valian/nginx-test-page.svg)
 
 Smallest possible Nginx (OpenResty) image for testing load-balancing inside Docker cluster. I've created it because I wanted to stress-test `Docker Swarm` networking, and analyse results using ELK stack. It should work just fine with other orchestrators, like `Kubernetes`.
